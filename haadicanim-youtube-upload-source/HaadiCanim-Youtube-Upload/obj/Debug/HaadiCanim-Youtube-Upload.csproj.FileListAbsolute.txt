@@ -1,0 +1,10 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\bin\Debug\HaadiCanim-Youtube-Upload.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\bin\Debug\HaadiCanim-Youtube-Upload.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\bin\Debug\HaadiCanim-Youtube-Upload.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\bin\Debug\Newtonsoft.Json.dll
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim-Youtube-Upload.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim_Youtube_Upload.Form1.resources
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim_Youtube_Upload.Properties.Resources.resources
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim-Youtube-Upload.csproj.GenerateResource.Cache
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim-Youtube-Upload.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\haadicanim-youtube-upload-source\HaadiCanim-Youtube-Upload\obj\Debug\HaadiCanim-Youtube-Upload.pdb
